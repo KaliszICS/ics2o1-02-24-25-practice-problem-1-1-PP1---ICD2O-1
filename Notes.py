@@ -17,20 +17,6 @@ All 4 sections are required and must be put within a multi line comment at the s
 
 # Below is an output statement, also known as a print statement.  It outputs to the console what is inside the brackets
 print(5) # This outputs the number 5
-#add some text
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 print()
 
